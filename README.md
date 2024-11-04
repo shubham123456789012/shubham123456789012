@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Kumar
-- 👀 I’m interested Mern stack Web Dev
+- 👀 Full Stack Dev ( Spring Boot, React, Node)
 - 🌱 I’m currently Studying at NIT SILCHAR in Electronics and communication Engineering.
 - 
 
