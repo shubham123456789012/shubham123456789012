@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Kumar
 - 👀 Full Stack Dev ( Spring Boot, React, Node)
-- 🌱 I’m currently Studying at NIT SILCHAR in Electronics and communication Engineering.
+- 🌱 NIT Silchar Graduate (2k23 Batch)
 -  Codeforces - Expert
 
 <!---
